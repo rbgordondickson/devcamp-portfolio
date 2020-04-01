@@ -1,11 +1,8 @@
 # Devcamp Portfolio Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby on Rails application that allows users to crete the own portfolio
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version - ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin16]
 
 * System dependencies
 
