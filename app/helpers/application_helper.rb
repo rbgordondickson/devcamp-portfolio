@@ -15,4 +15,7 @@ module ApplicationHelper
     end
     
   end
+  def copyright_generator
+    GoatropeViewTool::Renderer.copyright 'Gordon Dickson', 'All rights reserved'
+  end
 end
